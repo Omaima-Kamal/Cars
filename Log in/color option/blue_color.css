@@ -1,0 +1,33 @@
+.css .active,
+.css li a:hover, .css .dropdown:hover .css .dropbtn,
+.option-box .color-option ul li,
+.option-box .gear-check,
+#toggle:hover,
+.css li a:hover,
+#search:hover,
+#navDemo a:hover,
+.contact-us button,
+button,
+.parent .child h2
+{
+    background-color: blue;
+}
+.parent,
+.account button,
+.FAQs button
+{
+  border: 3px solid blue;
+}
+#navDrop
+{
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue
+}
+.account h4
+{
+    text-shadow: 2px 2px blue;
+}
+.footer .copyright span
+{
+    color: blue
+}

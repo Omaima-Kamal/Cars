@@ -1,0 +1,26 @@
+.css .active,
+.css li a:hover, .css .dropdown:hover .css .dropbtn,
+.option-box .color-option ul li,
+.option-box .gear-check,
+#toggle:hover,
+.css li a:hover,
+#search:hover,
+#navDemo a:hover,
+.contact-us button
+{
+    background-color: #FFD500;
+}
+.css .danger,
+.list ul li
+{
+  border: 3px solid #FFD500;
+}
+#navDrop
+{
+    border-top: 2px solid #FFD500;
+    border-bottom: 2px solid #F0FFD500
+}
+.footer .copyright span
+{
+    color: #FFD500
+}

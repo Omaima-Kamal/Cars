@@ -1,0 +1,32 @@
+.css .active,
+.css li a:hover, .css .dropdown:hover .css .dropbtn,
+.option-box .color-option ul li,
+.option-box .gear-check,
+#toggle:hover,
+.css li a:hover,
+#search:hover,
+#navDemo a:hover,
+.contact-us button
+{
+    background-color: darkmagenta;
+}
+.css .danger,
+.list ul li
+{
+  border: 3px solid darkmagenta;
+}
+#navDrop
+{
+    border-top: 2px solid darkmagenta;
+    border-bottom: 2px solid darkmagenta
+}
+.control
+{
+	
+    border-color: darkmagenta;
+
+}
+.footer .copyright span
+{
+    color: darkmagenta
+}
